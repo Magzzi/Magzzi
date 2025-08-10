@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **PHP, AI/Machine Learning, Python, TypeScript, and Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://magzzi.github.io/ziomagugat/](https://magzzi.github.io/ziomagugat/)
+- 👨‍💻 All of my projects are available at [https://ziomagugat.vercel.app/](https://ziomagugat.vercel.app/)
 
 - 📄 Know about my experiences [https://flowcv.com/resume/g1b6qaft2n](https://flowcv.com/resume/g1b6qaft2n)
 

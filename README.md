@@ -37,7 +37,10 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magzzi&show_icons=true&locale=en&layout=compact" alt="magzzi" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magzzi&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="magzzi" />
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magzzi&show_icons=true&locale=en" alt="magzzi" /></p>
 
